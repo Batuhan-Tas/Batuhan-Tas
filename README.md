@@ -6,4 +6,6 @@
  and collaborate in diverse environments.I am eager to leverage my
  engineering background and software skills to contribute to innovative
  projects that drive efficiency and sustainability in the industry.
+ 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batuhan-Tas&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
