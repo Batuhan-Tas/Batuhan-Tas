@@ -1,6 +1,7 @@
 
- <p align="center" style="purple">
-  #Welcome To My Profile 👋
+ <p style="color:red" align="center" >
+  Welcome To My Profile 👋
+  I am Batuhan !
 </p>
 
 <p align="center">
@@ -9,7 +10,10 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20and%20App%20Developer;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
    <a href="https://www.linkedin.com/in/mustafa-batuhan-tas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
- 
+ <br></br>
+
+ <p align="justify">
+  
  Motivated Software Developer with a Bachelor’s degree in Civil Engineering
  earned in 2022,currently pursuing a Master's degree in Software
  Engineering.I possess a strong analytical mindset and a passion for
@@ -18,6 +22,8 @@
  and collaborate in diverse environments.I am eager to leverage my
  engineering background and software skills to contribute to innovative
  projects that drive efficiency and sustainability in the industry.
+   
+ </p>
  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -26,7 +32,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Batuhan-Tas&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=320&theme=radical" />
 </a>
-
+<br></br>
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,9 +63,7 @@
 
 
 
-
-
-
+ 
 - 🔭 Currently working on projects to boost my skills and understanding of clean code.
 - 🌱 Always expanding my knowledge and contributing to open-source communities.
 - 🚀 On a mission to push the boundaries of what's possible with code.
