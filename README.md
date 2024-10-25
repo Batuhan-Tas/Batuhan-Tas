@@ -1,3 +1,6 @@
+
+#Welcome To My Profile 👋
+ 
  Motivated Software Developer with a Bachelor’s degree in Civil Engineering
  earned in 2022,currently pursuing a Master's degree in Software
  Engineering.I possess a strong analytical mindset and a passion for
@@ -8,4 +11,12 @@
  projects that drive efficiency and sustainability in the industry.
  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batuhan-Tas&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Batuhan-Tas" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Batuhan-Tas&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=320" />
+</a>
+
+
+
